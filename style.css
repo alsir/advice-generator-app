@@ -15,11 +15,11 @@ body{
 }
 #box{
 	background-color: hsl(217, 19%, 24%);
-	width: 450px;
-	height: 280px;
+	width: 500px;
+	height: 300px;
 	text-align: center;
 	border-radius: 20px;
-	margin-top: 10%  ;
+	margin-top: 13%  ;
 	position: relative;
 
 }
@@ -31,7 +31,7 @@ p{
 	letter-spacing: 2px;
 }
  h2{
- 	font-size: 1.5rem;
+ 	font-size: 1.7rem;
  	padding: 5%;
  	color: white;
  	opacity: 0.8;
@@ -70,7 +70,7 @@ button{
 	border: none;
 	position: absolute;
 	bottom: -15px;
-	right: 15vw;
+	right: 17vw;
 }
 button:hover , button:active{
 	opacity: 0.6;
