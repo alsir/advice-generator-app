@@ -69,7 +69,7 @@ button{
 	border: none;
 	position: absolute;
 	bottom: -15px;
-	right: 14vw;
+	right: 15vw;
 }
 button:hover , button:active{
 	opacity: 0.6;
